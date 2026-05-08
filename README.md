@@ -2,6 +2,12 @@
 
 **A versatile currency converter program.**
 
+## Overview
+
+Currency Converter is a JavaFX desktop application for managing and tracking currency exchange rates. It supports converting between currencies, maintaining exchange rate data, comparing trends across popular currencies, and exporting financial summaries.
+
+## Features
+
 * Convert currencies
 * Add new currency exchange rates
 * Update existing currency exchange rates
