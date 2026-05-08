@@ -27,8 +27,9 @@ gradle test jacocoTestReport
 ```
 
 ## Admin Privileges
+
 Should you wish to use the application as admin (maintain/update exchange rates and control the most popular currencies):  
-<br>
+
 Username: admin  
 Password: admin
 
