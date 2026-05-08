@@ -42,6 +42,14 @@ Password: admin
 
 ## Preview
 
+[![](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic1.png)](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic1.png)
+
+[![](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic3.png)](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic3.png)
+
+[![](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic2.png)](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic2.png)
+
+[![](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic4.png)](https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic4.png)
+
 <p align="center">
     <img src="https://github.com/bbat2575/currency-converter/raw/main/images/ConverterPic1.png"/>
 </p>
